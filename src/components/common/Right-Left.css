@@ -1,0 +1,37 @@
+.Left-main {
+    width: 400px;
+    background-color:aliceblue;
+    height:auto;
+    margin-top: 2%;
+    margin-right: 2%;
+        
+    
+
+}
+
+.Right-main {
+    width:400px;
+    background-color:aliceblue;
+    height: 100%; 
+    margin-top:2%;
+    margin-left: 2%;
+
+}
+.buttonUP {
+    background-color:rgb(178,34,34); /* Green */
+    border: none;
+    color: white;
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+  }
+
+.button-Sign {border-radius: 12px;}
+
+    
